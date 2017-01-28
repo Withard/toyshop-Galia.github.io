@@ -1,0 +1,223 @@
+.main1{
+	width:140px;
+	height:25px;
+	float:left;
+	margin-left:9px;
+	background-color:#c9c9c9;
+	text-align:center;
+	padding-top:5px;
+}
+#cf{
+	width:1263px;
+	height:800px;
+	margin:auto	
+}
+.main2{
+	width:1px;
+	height:30px;
+	float:left;
+	margin-left:9px;
+	background-color:black;
+}
+#box4{
+	width:300px;
+	height:170px;
+	background-color:;
+	margin-left:30px
+}
+#box5{
+padding-top:5px;
+margin-left:217px;
+}
+.fade{
+    opacity:0.7;
+}
+.fade:hover{
+    opacity:1;
+}
+ .a { 
+    text-decoration: none;
+   } 
+ #box10{
+	width:760px;
+	height:35px;
+	background-color:#393939;
+	float:left;
+	margin-top: 20px
+ }
+ .indents{
+	margin-left:208px;
+	color:white;
+ }
+ .q1{
+	width:60px;
+	height:30px;
+	margin:auto;
+	background-color:;
+ }
+ #q2{ 
+ margin-top: 10 px
+ }
+ #boxq1{
+	width:760px;
+	height:400px;
+	background-color:green;
+	float:left;
+	margin-top: 3px;
+	margin-left:208px;
+ }
+ #block{
+	width:290px;
+	height:400px;
+	background-color:#c9c9c9;
+	float:left;
+	text-align:middle
+ }
+  #block1{
+	width:470px;
+	height:400px;
+	background-color:grey;
+	float:left;
+	background-image:url(qwe.gif);
+	background-size: contain;
+ }
+ #boxq2{
+	width:400px;
+	height:40px;
+	background-color:;
+	float:left;
+	margin-top: 10px;
+	margin-left:450px;
+	color:#636363
+ }
+  #boxq3{
+	width:760px;
+	height:500px;
+	background-color:;
+	float:left;
+	margin-bottom:30px;
+	margin-left:208px;
+ }
+  #block4{
+	width:160px;
+	height:210px;
+	background-color:#dddddd;
+	float:left;
+	margin-bottom:10px;
+	margin-left:25px;
+	margin-top:30px;
+	border: 1px double grey;
+ }
+ .fade1{
+    opacity:3;
+}
+.fade1:hover{
+    opacity:0.7;
+}
+ .fade2{
+    opacity:4;
+}
+.fade2:hover{
+    opacity:0.9;
+}
+.view {
+    width:  160px;
+    height: 220px;
+    margin: 10px;
+    float: left;
+    border: px solid #fff;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    box-shadow: 1px 1px 2px #e6e6e6;
+    cursor: default;
+    background: #fff url("q.jpg")
+}
+.view .mask, .view .content {
+    width: 160px;
+    height: 400px;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0
+}
+.view img {
+    display: block;
+    position: relative
+}
+.view h2 {
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-size: 15px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.8);
+    margin: 20px 0 0 0
+}
+.view p {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 13px;
+    position: relative;
+    color: #fff;
+    padding: 5px 5px 5px;
+    text-align: center
+}
+.view a.info {
+    display: inline-block;
+    text-decoration: none;
+    padding: 7px 14px;
+    background: #000;
+    color: #fff;
+    text-transform: uppercase;
+    box-shadow: 0 0 1px #000
+}
+.view a.info:hover {
+    box-shadow: 0 0 5px #000
+}
+.view-first img { 
+    transition: all 0.2s linear;
+}
+.view-first .mask {
+    opacity: 0;
+    background-color: rgba(219,127,8, 0.7); 
+    transition: all 0.4s ease-in-out;
+}
+.view-first h2 {
+    transform: translateY(-100px);
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}
+.view-first p { 
+    transform: translateY(100px);
+    opacity: 0;
+    transition: all 0.2s linear;
+}
+.view-first a.info{
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}
+.view-first:hover img { 
+    transform: scale(1.1);
+} 
+.view-first:hover .mask { 
+    opacity: 1;
+}
+.view-first:hover h2,
+.view-first:hover p,
+.view-first:hover a.info {
+    opacity: 1;
+    transform: translateY(0px);
+}
+.view-first:hover p {
+    transition-delay: 0.1s;
+}
+.view-first:hover a.info {
+    transition-delay: 0.2s;
+}
+.boxe{
+	width:1150px;
+	height:25px;
+	background-color:;
+}

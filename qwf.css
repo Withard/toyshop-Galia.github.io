@@ -1,0 +1,157 @@
+.main1{
+	width:140px;
+	height:25px;
+	float:left;
+	margin-left:9px;
+	background-color:#c9c9c9;
+	text-align:center;
+	padding-top:5px;
+}
+.main2{
+	width:1px;
+	height:30px;
+	float:left;
+	margin-left:9px;
+	background-color:black;
+}
+#cf{
+	width:1263px;
+	height:800px;
+	margin:auto	
+}
+#box4{
+	width:300px;
+	height:170px;
+	background-color:;
+	margin-left:30px
+}
+#box5{
+padding-top:5px;
+margin-left:217px;
+}
+.fade{
+    opacity:0.7;
+}
+.fade:hover{
+    opacity:1;
+}
+ .a { 
+    text-decoration: none;
+   } 
+    #box10{
+	width:760px;
+	height:35px;
+	background-color:#393939;
+	float:left;
+	margin-top: 20px
+ }
+  .indents{
+	margin-left:208px;
+	color:white;
+ }
+   .q1{
+	width:60px;
+	height:30px;
+	margin:auto;
+	background-color:;
+ }
+   .fade2{
+    opacity:4;
+}
+.fade2:hover{
+    opacity:0.9;
+}
+ #q2{ 
+ margin-top: 2px
+ }
+.blockk{
+	width:760px;
+	height:270px;
+	background-color:;
+	margin-top:8px;
+	border: px solid grey;
+}
+.blockk1{
+	width:760px;
+	height:270px;
+	background-color:;
+	margin-top:3px;
+	border: px solid grey;
+}
+#fd{
+	width:260px;
+	height:270px;
+	background-color:#c9c9c9;
+	float:left
+}
+#fd1{
+	width:500px;
+	height:270px;
+	background-color:;
+	margin-left:260px;
+	background-image:url(fgh1.jpg);
+	background-size: 500px 300px;
+
+}
+#fdq{
+	width:500px;
+	height:270px;
+	background-color:;
+	float:left;
+	background-image:url(fgh.jpg);
+	background-size: 500px 270px;
+}
+#fd1q{
+	width:260px;
+	height:270px;
+	background-color:#c9c9c9;
+	margin-left:500px
+
+}
+.loq{
+	width:240px;
+	height:210px;
+	background-color:;
+	margin-left:9px;
+	margin-top:10px
+}
+.loq1{
+	width:170px;
+	height:32px;
+	background-color:;
+	margin-left:100px;
+	margin-top:10px
+}
+.fdq1{
+	width:240px;
+	height:210px;
+	background-color:;
+}
+.fd1{
+	width:260px;
+	height:270px;
+	background-color:#c9c9c9;
+}
+.loqq{
+	width:240px;
+	height:210px;
+	background-color:;
+	margin-left:9px;
+	margin-top:10px
+}
+.loq1q{
+	width:240px;
+	height:32px;
+	background-color:;
+	margin-left:20px;
+	margin-top:10px
+}
+.fade3{
+    opacity:2;
+}
+.fade3:hover{
+    opacity:0.4;
+}
+ .a { 
+    text-decoration: none;
+   } 
